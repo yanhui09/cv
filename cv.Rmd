@@ -1,0 +1,92 @@
+---
+title: cv
+author:
+  - name: Yan Hui
+    affiliation: Department of Food Science, University of Copenhagen
+    email: me@yanh.org
+output: 
+  html_document:
+link-citations: yes
+bibliography: pub.bib
+csl: cell.csl
+---
+
+**Yan Hui**
+
+*PhD*	*Bioinformatics*		*Microbiology*\
+Copenhagen, Denmark	(45) 50383057			me@yanh.org\
+ORCID:	https://orcid.org/0000-0002-2388-131X\
+Google scholar:	https://scholar.google.com/citations?user=BJ5H46gAAAAJ&hl=en\
+Researchgate:	https://www.researchgate.net/profile/Yan-Hui-3\
+Personal Website:	https://www.yanh.org/		Github:	https://github.com/yanhui09\ 	
+Linkedin:	https://www.linkedin.com/in/yan-hui/\
+
+# Education
+
+PhD of Microbiology			University of Copenhagen		*2017 - 2020*\
+Master of Food Science		China Agricultural University		*2015 - 2017*\	
+Bachelor of Food Science		China Agricultural University		*2011 - 2015*\	
+
+# Employment
+
+*2020.12 - Present*	Postdoc at University of Copenhagen\
+*2018.05 - 2019.07*	Oversea bioinformatician at BGI Genomics Co., Ltd\
+
+# Academic Experience
+
+*2020.12 – Present*	Shotgun metagenomic workflow; long read sequencing by Oxford Nanopore Technologies\
+*2017 – 2020.12*	Gut microbiota colonization of the preterm at early age\
+	1) Use 16S rRNA gene amplicon sequencing to evaluate fecal microbiome progression of Danish preterm infants supplemented by probiotics LGG and BB12. [a single-center historically controlled trial]\
+  2) Use shotgun metagenomic sequencing to assess the donor efficacy of fecal microbiota transplantation on preterm piglets. [a model animal experiment]\
+  3) Compare short-read (ILLUMINA) and long-read length (Oxford Nanopore Technologies) sequencing of 16S rRNA gene amplicon sequencing\
+*2015 - 2017*	Metagenome-wide association analysis of end-stage renal disease and gut microbiota [a cross-sectional study] and a follow-up probiotic intervention study [a double-blinded randomized controlled trial]\
+*2014 - 2015*	Oral administration of *Lactobacillus paracasei* L9 attenuated allergic asthma of ovalbumin-sensitized BALB/c mice and PM2.5-enhanced symptoms [a model animal experiment]\
+
+# Selected Academic Publication
+
+Until 2023 Feb, I have 21 peer-reviewed publications as a joint author* or co-author, with H-index of 11. \
+**Hui, Y.**, …, Nielsen D.S. (2022). Donor-dependent Fecal Microbiota Transplantation Efficacy Against Necrotizing Enterocolitis in Preterm Pigs. npj Biofilms and Microbiomes 8(1), 48.\
+**Hui Y.**, …, Nielsen D.S. (2021). The effect of early probiotic exposure on the preterm infant gut microbiome development. Gut Microbes 13, 1951113.\
+**Hui, Y.**, …, Krych L. (2021). Supplementation of a lacto-fermented rapeseed-seaweed blend promotes gut microbial-and gut immune-modulation in weaner piglets. Journal of Animal Science and Biotechnology 12, 1–14.\
+Li, X., **Hui, Y.\***, … Zhao, S. (2021). Millet-based supplement restored gut microbial diversity of acute malnourished pigs. Plos one 16, e0250423.\
+Wang, X., **Hui, Y.\***, et al. (2017). Oral administration of Lactobacillus paracasei L9 attenuates PM2. 5-induced enhancement of airway hyperresponsiveness and allergic airway response in murine model of asthma. Plos one 12, e0171721.\
+Liu, Z., Dai, X., Zhang, H., Shi, R., **Hui, Y.**, et al. (2020). Gut microbiota mediates intermittent-fasting alleviation of diabetes-induced cognitive impairment. Nature communications 11, 1–14.\
+Wang, X., Yang, S., Li, S., ... **Hui, Y.**, et al. (2020). Aberrant gut microbiota alters host metabolome and impacts renal failure in humans and rodents. Gut 69, 2131–2142.\
+
+# Skills	
+
+Bioinformatic analysis of sequencing data, data mining, skilled work experience in R, Bash and Python\
+
+# Bioinformatic Tools
+
+Create and maintain several open-source bioinformatic workflows and tools:
+**ONTrapid**, a user-friendly snakemake workflow for long read *de novo* assembly (https://github.com/yanhui09/ONTrapid).\
+**LACA**, a scalable snakemake workflow for long read amplicon sequencing (https://github.com/yanhui09/laca).\
+**Bioscript**, a bunch of useful bioinformatic scripts (https://github.com/yanhui09/bioscript).\
+**Sync_utilities**, a sync system to backup data between servers (https://github.com/yanhui09/sync_utilities).\
+**Bbk3_wf**, wrapped scripts to deploy and run biobakery3 locally (https://github.com/yanhui09/bbk3_wf).\
+**RGIcat**, a simple snakemake pipeline to build a resistance gene catalogue based on CARD output (https://github.com/yanhui09/RGIcat).\
+**MicrobiomeAnalysis**, a hand-on tutorial to analyze microbiome in R (https://github.com/UCPH-FOODMICRO/MicrobiomeAnalysis).\
+
+Contribute to several up-to-date bioinformatic workflows and tools:\
+**Atlas**, three commands to start analyzing your metagenome data (https://github.com/metagenome-atlas/atlas).\
+**On-rep-seq**, bulk typing of bacterial species down to strain level (https://github.com/yanhui09/On-rep-seq).\
+
+# Publication list
+
+2022 [@zhang2022replication], [@hui2022donor], [@brunse2022fecal]
+
+2021 [@wiese2021high], [@stage2021genomic], [@hui2021supplementation],
+ [@li2021millet], [@hui2021effect], [@ren2021sub] 
+ 
+2020 [@wang2020methionine], [@wiese2020color],
+ [@wang2020aberrant], [@liu2020gut], [@ahnfeldt2020nutrient],
+ [@nielsen2020alpha], [@satessa2020impact]
+
+2019 [@wang2019supplementation], [@ren2019gut], [@yuan2019apoe] 
+
+2018 [@ren2018neonatal]
+
+2017 [@wang2017oral]
+
+# Bibliography
